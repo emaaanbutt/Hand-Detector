@@ -23,4 +23,4 @@ Press q to exit.
 📺 Tutorial
 -------------------------------------------
 Watch full explanation here:
-👉 [Your YouTube Tutorial Link]
+👉 https://youtu.be/HIflE3EDsXc
